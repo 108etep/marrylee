@@ -6,18 +6,18 @@ $(document).ready(function(){
        prevArrow: '<div class="slick-prev"></div>',
        nextArrow: '<div class="slick-next"></div>',
        autoplay: true,
-        asNavFor: '.thumbs',
+        // asNavFor: '.thumbs',
       });
-      $('.thumbs').slick({
-        arrows: false,
-        slidesToShow: 6,
-        slidesToScroll:6,
-        asNavFor: '.slider',
-        focusOnSelect: true,
+      // $('.thumbs').slick({
+      //   arrows: false,
+      //   slidesToShow: 6,
+      //   slidesToScroll:6,
+      //   asNavFor: '.slider',
+      //   focusOnSelect: true,
         
   
         
-      });
+      // });
       
 
 
