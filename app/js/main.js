@@ -5,7 +5,7 @@ $(document).ready(function(){
        arrows: true,
        prevArrow: '<div class="slick-prev"></div>',
        nextArrow: '<div class="slick-next"></div>',
-       autoplay: true,
+       autoplay: false,
         // asNavFor: '.thumbs',
       });
       // $('.thumbs').slick({
